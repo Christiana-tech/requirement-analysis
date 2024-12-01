@@ -101,4 +101,4 @@ Use Case Diagrams are visual representations of the interactions between users (
 The diagram below illustrates the primary actors and use cases for the booking management system:
 
 
-In summary, Requirement Analysis is the backbone of a successful software project, providing clarity, reducing risks, and enhancing the overall quality of the deliverable.
+![Use Case Diagram](./alx-booking-uc.png)
