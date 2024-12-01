@@ -19,30 +19,39 @@ Thorough Requirement Analysis ensures the final product meets user needs and exp
 
 ## Key Activities in Requirement Analysis
 
-Requirement Analysis involves several structured activities to ensure the project's requirements are clearly defined, analyzed, and validated. These key activities are essential to develop a software product that meets stakeholder expectations and business objectives. Below are the five core activities in Requirement Analysis:
+Requirement Analysis involves a series of structured steps to define, document, and validate the needs of stakeholders. Below are the main steps:
 
-- **Requirement Gathering**  
-  Collecting information from all relevant stakeholders to understand their needs, expectations, and constraints. This includes meetings, interviews, surveys, and reviewing existing documentation to identify what the software must achieve.
+### Requirement Gathering
 
-- **Requirement Elicitation**  
-  Actively engaging with stakeholders to uncover implicit and explicit needs. This activity uses techniques such as brainstorming sessions, use case scenarios, and prototyping to ensure all requirements are accurately captured.
+- Conduct interviews with stakeholders.  
+- Use surveys or questionnaires to gather broader input.  
+- Organize workshops to brainstorm and clarify ideas.  
+- Observe how users currently perform tasks.  
+- Review existing documents and systems for insights.  
 
-- **Requirement Documentation**  
-  Organizing the gathered and elicited requirements into clear, structured, and detailed documentation. Common formats include Software Requirements Specification (SRS) documents, which outline functional and non-functional requirements.
+### Requirement Elicitation
 
-- **Requirement Analysis and Modeling**  
-  Analyzing the requirements to assess feasibility, prioritization, and consistency. Creating visual models such as flowcharts, data models, and use case diagrams helps in understanding and refining the requirements.
+- Host brainstorming sessions to collect ideas.  
+- Form focus groups to explore specific requirements in depth.  
+- Build prototypes to visualize and refine requirements.  
 
-- **Requirement Validation**  
-  Ensuring the documented requirements align with stakeholder expectations and business objectives. This involves review sessions, approvals, and validation techniques to confirm that the requirements are complete, feasible, and testable.
+### Requirement Documentation
 
----
+- Write a detailed specification document.  
+- Create user stories that describe features from the user’s perspective.  
+- Use diagrams to explain system interactions.  
 
-This section outlines the critical activities involved in Requirement Analysis, emphasizing their role in ensuring project success.
+### Requirement Analysis and Modeling
 
+- Prioritize requirements based on importance.  
+- Evaluate if each requirement is technically and financially feasible.  
+- Use diagrams like data flows or Entity-Relationship Diagrams (ERDs) to model the system.  
 
-Thorough Requirement Analysis ensures the final product meets user needs and expectations. By defining functional and non-functional requirements precisely, it lays the groundwork for building a high-quality solution that delivers value, improves user satisfaction, and aligns with business objectives.
+### Requirement Validation
 
----
+- Review requirements with stakeholders to confirm accuracy and completeness.  
+- Define clear acceptance criteria to ensure requirements are met.  
+- Track requirements to ensure they’re implemented correctly.  
+
 
 In summary, Requirement Analysis is the backbone of a successful software project, providing clarity, reducing risks, and enhancing the overall quality of the deliverable.
