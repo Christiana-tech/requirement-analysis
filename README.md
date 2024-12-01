@@ -83,7 +83,22 @@ By addressing both functional and non-functional requirements, the booking manag
 
 - Review requirements with stakeholders to confirm accuracy and completeness.  
 - Define clear acceptance criteria to ensure requirements are met.  
-- Track requirements to ensure they’re implemented correctly.  
+- Track requirements to ensure they’re implemented correctly.
+
+## Use Case Diagrams
+
+Use Case Diagrams are visual representations of the interactions between users (actors) and the system. They help in identifying and documenting system functionalities from a user's perspective. 
+
+### Benefits of Use Case Diagrams
+
+- Provide a high-level understanding of system requirements.  
+- Identify the relationships between users and system features.  
+- Facilitate communication among stakeholders and developers.  
+- Serve as a guide for creating detailed design and test cases.
+
+### Use Case Diagram for the Booking System
+
+The diagram below illustrates the primary actors and use cases for the booking management system:
 
 
 In summary, Requirement Analysis is the backbone of a successful software project, providing clarity, reducing risks, and enhancing the overall quality of the deliverable.
