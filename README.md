@@ -49,6 +49,38 @@ Requirement Analysis involves a series of structured steps to define, document, 
 
 ### Requirement Validation
 
+## Types of Requirements
+
+In software development, requirements can be broadly classified into two categories: Functional Requirements and Non-functional Requirements. Both are essential for defining the system’s behavior and ensuring its success. Below are definitions and examples specific to a booking management project.
+
+### Functional Requirements
+
+Functional requirements define the specific behavior, features, or functions of the system. They describe *what* the system should do to fulfill business objectives.  
+
+#### Examples for a Booking Management Project:
+
+- Users should be able to create, update, and cancel bookings.  
+- The system must send confirmation emails to users after a successful booking.  
+- Admins should be able to manage room availability and block dates for maintenance.  
+- The system should allow users to search for available rooms by date and room type.  
+- Payment processing must support credit cards, debit cards, and digital wallets.  
+
+### Non-functional Requirements
+
+Non-functional requirements specify the *how* aspects of the system, such as performance, usability, reliability, and scalability. They define the quality attributes that the system must possess.
+
+#### Examples for a Booking Management Project:
+
+- The system should handle up to 1000 concurrent users without performance degradation.  
+- Booking confirmation emails should be delivered within 30 seconds of a successful transaction.  
+- The application interface should be responsive and load within 2 seconds on mobile devices.  
+- The system should have a 99.9% uptime to ensure availability for users.  
+- User data must be encrypted and comply with GDPR standards.  
+
+---
+
+By addressing both functional and non-functional requirements, the booking management project can ensure it meets user needs and delivers a high-quality experience.
+
 - Review requirements with stakeholders to confirm accuracy and completeness.  
 - Define clear acceptance criteria to ensure requirements are met.  
 - Track requirements to ensure they’re implemented correctly.  
